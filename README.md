@@ -2,7 +2,7 @@
 
 🚀 *Desarrollador en transición a Data Scientist | Ingeniería Industrial | Análisis y Ciencia de Datos*  
 
-📌 [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) | 📧 [Email](zaragozaquintero@gmail.com) | 🌐 [Portafolio Web](tu-web)  
+📌 [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) | 📧 [Email](zaragozaquintero@gmail.com) | 🌐 [Portafolio Web](https://andreszaragoza.github.io/Portafolio/)  
 
 ---
 
