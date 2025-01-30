@@ -2,7 +2,7 @@
 
 🚀 *Desarrollador en transición a Data Scientist | Ingeniería Industrial | Análisis y Ciencia de Datos*  
 
-📌 [LinkedIn](tu-linkedin) | 📧 [Email](mailto:tu-email) | 🌐 [Portafolio Web](tu-web)  
+📌 [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) | 📧 [Email](zaragozaquintero@gmail.com) | 🌐 [Portafolio Web](tu-web)  
 
 ---
 
@@ -41,10 +41,5 @@
 🔹 [🔗 Ver Repositorio](https://github.com/andreszaragoza/Train_Eda)  
 
 ---
-
-## 📬 **Contacto**  
-📧 Email: [tu-email]  
-💼 LinkedIn: [tu-linkedin]  
-🌍 Portafolio Web: [tu-web]  
 
 🔗 ¡Explora mis proyectos y colaboremos en nuevas ideas! 🚀  
