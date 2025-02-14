@@ -17,7 +17,6 @@
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
 - **Desarrollo Web:** HTML, CSS, React, Flask  
-- **BI & Visualización:** Power BI, Tableau  
 - **Control de Versiones:** Git, GitHub  
 
 ---
